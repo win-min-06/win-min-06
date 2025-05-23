@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <a href="https://www.gitanimals.org/">
       <img
